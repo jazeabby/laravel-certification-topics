@@ -1,18 +1,20 @@
 # Certification Topics
+These  is for version Laravel 8.x as on Nov, 2021.
+---
 
 ## Architecture
-#### Request Lifecycle
-#### Service Container Binding and Resolution
-#### Service Providers
-#### Facades
+#### [Request Lifecycle](https://laravel.com/docs/8.x/lifecycle)
+#### [Service Container Binding and Resolution](https://laravel.com/docs/8.x/container)
+#### [Service Providers](https://laravel.com/docs/8.x/providers)
+#### [Facades](https://laravel.com/docs/8.x/facades)
 ---
 
 ## Artisan Console
 
-#### Generating Commands
-#### Command I/O
-#### Registering Commands
-#### Executing Commands
+#### [Generating Commands](https://laravel.com/docs/8.x/artisan#generating-commands)
+#### [Command I/O](https://laravel.com/docs/8.x/artisan#command-io)
+#### [Registering Commands](https://laravel.com/docs/8.x/artisan#registering-commands)
+#### [Executing Commands](https://laravel.com/docs/8.x/artisan#programmatically-executing-commands)
 ---
 
 ## Caching
